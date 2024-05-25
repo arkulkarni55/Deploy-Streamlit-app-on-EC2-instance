@@ -1,8 +1,7 @@
 import streamlit as st
 
 
-st.header('Welcome to My world')
+st.header('Happy 14 months babyyyyyyyy :)')
 
-st.write("Happy 14 months babyy")
 
 
